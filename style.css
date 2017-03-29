@@ -1,0 +1,89 @@
+body {
+   /*background-image: url("http://st.depositphotos.com/2101611/3538/i/950/depositphotos_35383733-stock-photo-old-brick-wall-background.jpg";
+   background-size:cover;*/
+   background-color: grey;
+}
+
+
+
+h1 {
+    font-family: 'Shadows Into Light', cursive;
+    text-align: center;
+    font-size: 50px;
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    display: block;
+    width: 100%;
+}
+
+
+.colleagues a {
+    font-style: italic;
+    color: red;
+    font-size: 20px;
+}
+
+.colleagues ul {
+    list-style-type: none;
+}
+
+.nav {
+    margin: -50px auto auto -15px;
+    position: fixed;
+    padding-top: -15px;
+    width: 100%;
+}
+
+.nav ul {
+    border-style: hidden;
+    background-color: black;
+    list-style-type: none;
+    text-align: center;
+    
+    
+    
+}
+
+.nav li {
+    display: inline;
+    padding: 0px 52px;
+    text-align: center;
+    
+}
+
+.nav a{
+    color: white;
+    text-decoration: none;
+}
+
+.nav li:hover {
+    background-color: grey;
+}
+
+.active {
+    background-color: green;
+    color: white;
+}
+
+.footer {
+    text-align: center;
+}
+.footer ul {
+    list-style-type: none;
+    background-color: black;
+}
+
+.footer li {
+    display: inline;
+    padding-left:20px;
+}
+
+.footer a {
+    color: white;
+    font-style: italic;
+}
